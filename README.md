@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/donnay/good-coriander)
+
 # ✨ Fjord Nextjs Theme ✨
 
 This is Stackbit's "Fjord" theme built with [Next.js](https://nextjs.org/) and
