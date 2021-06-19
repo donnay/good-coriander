@@ -12,7 +12,7 @@ excerpt: >-
   distinction between rooms and indoor and outdoor space.
 date: '2021-06-19'
 thumb_img_path: /images/CA789EE1-38CE-4137-A170-F8F7A9FCBA10.jpeg
-thumb_img_alt: a macro of a flower
+thumb_img_alt: a macro of a flower/ Pink
 content_img_path: images/10.jpg
 seo:
   title: Fox Village In Japan
