@@ -1,18 +1,13 @@
 ---
-title: Process Gardening
+title: What is Process Gardening?
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
-excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
-date: '2020-01-11'
-thumb_img_path: images/10.jpg
-thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
+  Unless you tend to your processes daily they will degrade over time. The
+  Toyota Production System uses the concept of a Kata. A action repeated
+  frequently, so as to make it a reflex.  
+date: '2021-06-19'
+thumb_img_path: /images/CA789EE1-38CE-4137-A170-F8F7A9FCBA10.jpeg
+thumb_img_alt: 'a macro of a flower. Pink, red, yellow and white'
+content_img_path: /images/5A68CF76-A692-4D11-A0B6-8C55E54992EA.jpeg
 seo:
   title: Fox Village In Japan
   description: >-
@@ -46,6 +41,13 @@ seo:
       value: images/10.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  Toyota Productioon System used the work Kata to mean a practice that, when
+  repeated regularly, becomes a reflex. The Process you have put in place need
+  to be tended to frequently, even daily, to observe how they are performing.
+  Check in with your processes daily, to tweak., to prune, to weed. It is
+  through this constant gardening of your process garden that the seeds and
+  sprouts you plant will grown and flourish.
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.

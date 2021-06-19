@@ -3,17 +3,21 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Stackbit Fjord Theme
-  description: The preview of the Fjord theme
+  title: Daily improvement helps processes grow and flourish
+  description: >-
+    Process, like plans must be tended to constantly to grow and flourish.
+    Starting, improving and supporting mature well rounded processes. 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fjord Theme
+      value: Process Gardening
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Process, like plans must be tended to constantly to grow and flourish.
+        Starting, improving and supporting mature well rounded processes. 
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
@@ -22,9 +26,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: Process Gardening
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Process, like plans must be tended to constantly to grow and flourish.
+        Starting, improving and supporting mature well rounded processes. 
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
