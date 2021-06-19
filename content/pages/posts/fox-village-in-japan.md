@@ -45,7 +45,7 @@ excerpt: >-
   Toyota Productioon System used the work Kata to mean a practice that, when
   repeated regularly, becomes a reflex. The Process you have put in place need
   to be tended to frequently, even daily, to observe how they are performing.
-  Check in with your processes daily, to tweak., to prune
+  Check in with your processes daily, to tweak., to prune, to weed
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
