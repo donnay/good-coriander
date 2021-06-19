@@ -1,5 +1,5 @@
 ---
-title: What is Process Gardening
+title: What is Process Gardening?
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
