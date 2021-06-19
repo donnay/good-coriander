@@ -1,6 +1,8 @@
 ---
 title: What is Process Gardening?
-subtitle: Unless you tend to your processes daily they will degrade over time. The To
+subtitle: >-
+  Unless you tend to your processes daily they will degrade over time. The
+  Toyota Production System uses the concept of a Kata. 
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
