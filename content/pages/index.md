@@ -4,7 +4,10 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Daily improvement helps processes grow and flourish
-  description: The preview of the Fjord theme
+  description: >-
+    Process, like plans must be tended to constantly to allow them to grow and
+    flourish. This is a site devoted to the practices that start, improve and
+    support mature and well rounded processes. 
   extra:
     - name: 'og:type'
       value: website
