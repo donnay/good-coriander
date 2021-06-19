@@ -13,7 +13,7 @@ excerpt: >-
 date: '2021-06-19'
 thumb_img_path: /images/CA789EE1-38CE-4137-A170-F8F7A9FCBA10.jpeg
 thumb_img_alt: 'a macro of a flower. Pink, red, yellow and white'
-content_img_path: images/10.jpg
+content_img_path: /images/5A68CF76-A692-4D11-A0B6-8C55E54992EA.jpeg
 seo:
   title: Fox Village In Japan
   description: >-
