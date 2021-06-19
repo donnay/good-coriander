@@ -1,8 +1,6 @@
 ---
 title: What is Process Gardening?
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: 'Unless you '
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
