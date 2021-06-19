@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fjord Theme
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Process, like plans must be tended to constantly to grow and flourish.
+        Starting, improving and supporting mature well rounded processes. 
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
