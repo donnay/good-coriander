@@ -4,12 +4,6 @@ subtitle: >-
   Unless you tend to your processes daily they will degrade over time. The
   Toyota Production System uses the concept of a Kata. A action repeated
   frequently, so as to make it a reflex.  
-excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
 date: '2021-06-19'
 thumb_img_path: /images/CA789EE1-38CE-4137-A170-F8F7A9FCBA10.jpeg
 thumb_img_alt: 'a macro of a flower. Pink, red, yellow and white'
