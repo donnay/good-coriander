@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: Process Gardening
     - name: 'twitter:description'
       value: >-
         Process, like plans must be tended to constantly to grow and flourish.
