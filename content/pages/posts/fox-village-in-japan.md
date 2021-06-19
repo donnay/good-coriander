@@ -11,7 +11,7 @@ excerpt: >-
   buildings see the use of tatami mats and sliding doors that break down the
   distinction between rooms and indoor and outdoor space.
 date: '2021-06-19'
-thumb_img_path: images/10.jpg
+thumb_img_path: /images/CA789EE1-38CE-4137-A170-F8F7A9FCBA10.jpeg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
