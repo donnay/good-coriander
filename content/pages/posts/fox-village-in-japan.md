@@ -1,6 +1,6 @@
 ---
 title: What is Process Gardening?
-subtitle: 'Unless you '
+subtitle: 'Unless you look at your processes daily, '
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
