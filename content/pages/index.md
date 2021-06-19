@@ -15,7 +15,9 @@ seo:
       value: Process Gardening
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Process, like plans must be tended to constantly to grow and flourish.
+        Starting, improving and supporting mature well rounded processes. 
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
