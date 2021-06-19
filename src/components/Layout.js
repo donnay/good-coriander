@@ -67,9 +67,9 @@ export default class Body extends React.Component {
                     <meta name="description" content={seoDescription} />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
-                    <link rel="preconnect" href="https://fonts.gstatic.com"> 
-                    <link href="https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap" rel="stylesheet">{favicon && <link rel="icon" href={withPrefix(favicon)} />}
-                    
+                    <link rel="preconnect" href="https://fonts.gstatic.com" />
+                    <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+                    {favicon && <link rel="icon" href={withPrefix(favicon)} />}
                     <body className={classNames(`palette-${palette}`)} />
                 </Helmet>
                 <div id="page" className="site">
