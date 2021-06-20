@@ -20,7 +20,7 @@ seo:
         Starting, improving and supporting mature well rounded processes. 
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/EA21227F-C1E2-439F-8E53-BCD36CA16ED1.jpeg
+      value: /_static/app-assets/images/4F5E98AB-C00A-4283-ABEC-30B3388C7815.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
