@@ -5,7 +5,7 @@ subtitle: >-
   Toyota Production System uses the concept of a Kata. A action repeated
   frequently, so as to make it a reflex.  
 date: '2021-06-19'
-thumb_img_path: /images/AE120EF5-60F5-43DB-A34D-5DA85287CA17.png
+thumb_img_path: /images/12190C9D-F5FA-401B-8247-709337725970.png
 thumb_img_alt: 'a macro of a flower. Pink, red, yellow and white'
 content_img_path: /images/5A68CF76-A692-4D11-A0B6-8C55E54992EA.jpeg
 seo:
