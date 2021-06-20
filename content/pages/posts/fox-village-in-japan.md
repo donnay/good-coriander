@@ -45,7 +45,7 @@ excerpt: >-
   The Toyota Production System uses the word Kata to mean a practice that, when
   repeated regularly, becomes a reflex. The Processes you have established need
   to be tended to frequently, even daily, to observe how they are performing.
-  Check in with your processes daily, to tweak, to prune, to weed. It is through
+  Check in with your processes daily, to tweak, prune, to weed. It is through
   this constant gardening of your process garden that the seeds and sprouts you
   plant will grown and flourish.
 ---
