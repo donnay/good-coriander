@@ -1,7 +1,7 @@
 ---
 title: Home
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Dig deeper
 seo:
   title: Daily improvement helps processes grow and flourish
   description: >-
