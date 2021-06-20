@@ -1,11 +1,11 @@
 ---
 title: Home
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Dig deeper
 seo:
   title: Daily improvement helps processes grow and flourish
   description: >-
-    Process, like plans must be tended to constantly to grow and flourish.
+    Processes, like plants, should be tended to constantly to grow and flourish.
     Starting, improving and supporting mature well rounded processes. 
   extra:
     - name: 'og:type'
@@ -16,11 +16,12 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Process, like plans must be tended to constantly to grow and flourish.
-        Starting, improving and supporting mature well rounded processes. 
+        Processes, like plants, should be tended to constantly to grow and
+        flourish. Starting, improving and supporting mature well rounded
+        processes. 
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /_static/app-assets/images/4F5E98AB-C00A-4283-ABEC-30B3388C7815.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -29,10 +30,11 @@ seo:
       value: Process Gardening
     - name: 'twitter:description'
       value: >-
-        Process, like plans must be tended to constantly to grow and flourish.
-        Starting, improving and supporting mature well rounded processes. 
+        Processes, like plants, should be tended to constantly to grow and
+        flourish. Starting, improving and supporting mature well rounded
+        processes. 
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: /_static/app-assets/images/A25D66A3-0F2D-42FB-971D-6A2949E4709F.png
       relativeUrl: true
 layout: home
 ---

@@ -1,11 +1,11 @@
 {
     "title": "Process Gardening",
     "path_prefix": "/",
-    "palette": "blue",
+    "palette": "red",
     "header": {
         "title": "Process Gardening",
         "tagline": "Daily tips for your process garden",
-        "logo_img": "/images/0C7B34B2-67CA-4158-86DF-065E384BD090.png",
+        "logo_img": "/images/3E7101F9-AAF7-4197-81CF-5485A107DDF2.png",
         "logo_img_alt": "Process Gardening Logo",
         "background_img": "/images/5A174905-F7B1-4D66-99E6-0089440699AD.jpeg",
         "has_nav": true,
@@ -60,5 +60,5 @@
         "content": "&copy; TheEngine.com. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
     },
     "domain": "https://processgardening.com",
-    "favicon": "/images/A29EA650-C30B-4B60-B863-2ED3DA882A6A.jpeg"
+    "favicon": "/images/favicon-96x96.png"
 }
