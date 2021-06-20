@@ -32,7 +32,7 @@ seo:
         Process, like plans must be tended to constantly to grow and flourish.
         Starting, improving and supporting mature well rounded processes. 
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: /_static/app-assets/images/A25D66A3-0F2D-42FB-971D-6A2949E4709F.png
       relativeUrl: true
 layout: home
 ---
