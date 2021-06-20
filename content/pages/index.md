@@ -16,8 +16,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Process, like plans must be tended to constantly to grow and flourish.
-        Starting, improving and supporting mature well rounded processes. 
+        Processes, like plants, should be tended to constantly to grow and
+        flourish. Starting, improving and supporting mature well rounded
+        processes. 
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/4F5E98AB-C00A-4283-ABEC-30B3388C7815.png
