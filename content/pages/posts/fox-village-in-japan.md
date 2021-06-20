@@ -6,7 +6,7 @@ subtitle: >-
   frequently, so as to make it a reflex.  
 date: '2021-06-19'
 thumb_img_path: /images/4DF1AEDB-F68C-4F3D-BC52-4FB98BD406B9.jpeg
-thumb_img_alt: 'a macro of a flower. Pink, red, yellow and white'
+thumb_img_alt: Process Gardening Logo
 content_img_path: /images/5A68CF76-A692-4D11-A0B6-8C55E54992EA.jpeg
 seo:
   title: Fox Village In Japan
