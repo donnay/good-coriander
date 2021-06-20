@@ -5,7 +5,7 @@ more_link_text: Keep reading
 seo:
   title: Daily improvement helps processes grow and flourish
   description: >-
-    Process, like plans must be tended to constantly to grow and flourish.
+    Processes, like plants, should be tended to constantly to grow and flourish.
     Starting, improving and supporting mature well rounded processes. 
   extra:
     - name: 'og:type'
