@@ -315,7 +315,7 @@ models:
     type: page
     urlPath: /template
     label: Template
-    layout: contact
+    layout: template
     file: template.md
     singleInstance: true
     fields:
