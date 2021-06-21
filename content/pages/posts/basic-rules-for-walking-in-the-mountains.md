@@ -41,7 +41,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
-subtitle: CMMI and Ben=yond
+subtitle: CMMI and Beyond
 ---
 
 ![Hiking](/images/2.jpg)
