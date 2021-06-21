@@ -1,5 +1,5 @@
 ---
-title: 'Measuring '
+title: Measuring the current level of maturity
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
   walking through dense forest, undergrowth, or bushes, where forward progress
