@@ -309,10 +309,10 @@ models:
           - stackbit_page_meta
   template:
     type: page
-    urlPath: /templates
+    urlPath: /template
     label: Template
     layout: contact
-    file: templates.md
+    file: template.md
     singleInstance: true
     fields:
       - type: string
