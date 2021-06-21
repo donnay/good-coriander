@@ -7,7 +7,7 @@ seo:
   robots: []
   extra: []
   type: stackbit_page_meta
-layout: contact
+layout: page
 ---
 ## Lorem ipsum
 
