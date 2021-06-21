@@ -40,10 +40,15 @@ layout: post
 subtitle: CMMI and Beyond
 excerpt: The basic rules on measuring the maturity of any process
 ---
-
-
 # First establish what good looks like
 
-For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled. 
+For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled.
 
-The \[Capability Maturity Model Integration (CMMI)]\(<https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration>) is a process and behavioral model that helps organizations streamline process improvement and encourage productive, efficient behaviors that decrease risks in software, product, and service development. 
+The [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) is a process and behavioral model that helps organizations streamline process improvement and encourage productive, efficient behaviors that decrease risks in software, product, and service development.
+
+## Free: Templates & Processes 
+
+![](/\_static/app-assets/images/A9701383-E6F6-47BE-99E6-F6A203D32D22.jpeg)
+
+[Download free Service Desk Maturity Assessment](https://processgardening.com/contact/?source=blog-measuring)
+
