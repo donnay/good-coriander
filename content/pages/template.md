@@ -46,7 +46,7 @@ seo:
     - name: 'twitter:image'
       value: images/contact.jpg
       relativeUrl: true
-layout: contact
+layout: template
 ---
 
 To get your free templates, please fill the form below.
