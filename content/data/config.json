@@ -5,7 +5,7 @@
     "header": {
         "title": "Process Gardening",
         "tagline": "Daily tips for your process garden",
-        "logo_img": "/images/3E7101F9-AAF7-4197-81CF-5485A107DDF2.png",
+        "logo_img": "/images/7EEF5012-9F1E-4C23-B8C5-FB88365F5C53.png",
         "logo_img_alt": "Process Gardening Logo",
         "background_img": "/images/5A174905-F7B1-4D66-99E6-0089440699AD.jpeg",
         "has_nav": true,
@@ -35,21 +35,21 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/processgardeni1",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/donnay/good-coriander",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/kevindonnayclarke/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
