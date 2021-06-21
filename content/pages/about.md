@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: /images/Kevinpic.JPG
+img_path: /images/KevinPic.jpg
 seo:
   title: About Me
   description: A page about me and my work
