@@ -38,6 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 subtitle: CMMI and Beyond
+excerpt: The basic rules on measuring the maturity of any process
 ---
 
 ![Hiking](/images/2.jpg)
