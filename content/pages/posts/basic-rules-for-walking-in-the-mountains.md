@@ -6,7 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2021-06-22'
 thumb_img_path: /images/88C19AB0-9404-41CC-B0FB-DA1549CEEAE5.jpeg
-thumb_img_alt: Plants Hedge
+thumb_img_alt: Planted Hedge
 content_img_path: images/1.jpg
 seo:
   title: Basic Rules For Walking In The Mountains
