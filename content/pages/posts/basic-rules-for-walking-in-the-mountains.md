@@ -1,9 +1,5 @@
 ---
 title: Measuring the current level of maturity
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
 date: '2021-06-22'
 thumb_img_path: /images/88C19AB0-9404-41CC-B0FB-DA1549CEEAE5.jpeg
 thumb_img_alt: Planted hedges cut into a checker board patterned.
