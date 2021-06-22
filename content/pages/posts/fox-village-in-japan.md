@@ -46,16 +46,10 @@ excerpt: >-
   your processes daily, to tweak, prune, and weed. By diligent gardening your
   processes, the seeds and sprouts will grown and flourish.
 ---
-> *Toyota takes the view that if a process is not improving, then it
-> is degrading; 
-> Toyota managers will always restandardize a process after every
-> improvement, but they will not be content to rest there, since they
-> know the new condition will deteriorate unless daily improvements are
-> made.*
-
-Just like a garden which will grow wildly if not tended to, any process you implement unless improved regularly will degrade. 
-
-Setting the next maturity goal, and workIng to achieve the next level, ensures that the processes do not go wild, return to an immature state. 
-
-Do each of your processes have a defined maturity goal?
-
+> > Unless you tend to your processes daily they will degrade over time. The Toyota Production System uses the concept of a Kata, an action repeated, to make it a reflex. 
+> >
+> > Like a garden which will grow if not tended to, any process you put in place unless improved will degrade. 
+> > Setting the next maturity goal, and workIng to achieve it everyday. This is the gardening that ensures the processes stays in a mature state. 
+> > Do each of your processes have a defined maturity goal?
+>
+> > *Toyota takes the view that if a process is not improving, then it is degrading; Toyota managers will always restandardize a process after every improvement, but they will not be content to rest there, since they know the new condition will deteriorate unless daily improvements are made.*
