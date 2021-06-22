@@ -42,10 +42,9 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  Processes you have established need to be tended to frequently, even daily, to
-  observe how they are performing. Check in with your processes daily, to tweak,
-  prune, and weed. It is through this constant gardening of your processes that
-  the seeds and sprouts you plant will grown and flourish.
+  Processes need frequent attention to maximize their performance. Check in with
+  your processes daily, to tweak, prune, and weed. By diligent gardening your
+  processes, the seeds and sprouts will grown and flourish.
 ---
 > *Toyota takes the view that if a process is not improving, then it
 > is degrading; 
