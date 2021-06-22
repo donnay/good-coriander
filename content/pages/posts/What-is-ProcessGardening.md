@@ -53,3 +53,4 @@ Unless you tend to your processes daily they will degrade over time. The Toyota 
 Like a garden which will grow if not tended to, any process you put in place unless improved will degrade.
 Setting the next maturity goal, and workIng to achieve it everyday. This is the gardening that ensures the processes stays in a mature state.
 Do each of your processes have a defined maturity goal?
+
