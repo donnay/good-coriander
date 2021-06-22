@@ -70,4 +70,3 @@ The [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki
 <!--End mc_embed_signup-->
 ![](/\_static/app-assets/images/A9701383-E6F6-47BE-99E6-F6A203D32D22.jpeg)
 
-[Download free Service Desk Maturity Assessment](https://processgardening.com/template/)
