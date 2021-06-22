@@ -54,8 +54,3 @@ Like a garden which will grow if not tended to, any process you put in place unl
 Setting the next maturity goal, and workIng to achieve it everyday. This is the gardening that ensures the processes stays in a mature state.
 Do each of your processes have a defined maturity goal?
 
-
-
-![](/\_static/app-assets/images/IMG\_2671.jpeg)
-
-![](/\_static/app-assets/images/IMG\_2670.jpeg)
