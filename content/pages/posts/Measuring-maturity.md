@@ -48,7 +48,7 @@ The [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki
 
 ##### Subscribe below & you'll get a free CMMI based Service Desk Maturity Assessment Worksheet!
 
-![]()
+![](https://github.com/donnay/good-coriander/blob/master/public/images/217C7DCB-4923-40B8-9F6A-C3723D227F18.png)
 
 
 <!-- Begin Mailchimp Signup Form -->
