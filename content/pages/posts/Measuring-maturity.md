@@ -68,5 +68,3 @@ The [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki
 </div>
 
 <!--End mc_embed_signup-->
-![](/\_static/app-assets/images/A9701383-E6F6-47BE-99E6-F6A203D32D22.jpeg)
-
