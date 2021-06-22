@@ -46,11 +46,7 @@ For any process that can be measured, it is essential to establish what is the d
 
 The [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) is a process and behavioral model that helps organizations streamline process improvement and encourage productive, efficient behaviors that decrease risks in software, product, and service development.
 
-\<img src="/images/217C7DCB-4923-40B8-9F6A-C3723D227F18.png">
-
-
-
-
+!\[]\(/images/217C7DCB-4923-40B8-9F6A-C3723D227F18.png)
 
 ##### Subscribe below & you'll get a free CMMI based Service Desk Maturity Assessment Worksheet!
 
