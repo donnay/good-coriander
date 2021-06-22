@@ -56,4 +56,6 @@ Do each of your processes have a defined maturity goal?
 
 
 
-![](/\_static/app-assets/images/201F59AE-DAB0-4C40-BCDC-66ADE4AB6781.jpeg)
+![](/\_static/app-assets/images/IMG\_2671.jpeg)
+
+![](/\_static/app-assets/images/IMG\_2670.jpeg)
