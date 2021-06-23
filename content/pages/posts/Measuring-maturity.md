@@ -1,5 +1,7 @@
 ---
 title: Measuring the current level of maturity
+subtitle: >-
+  CMMI and Beyond
 date: '2021-06-22'
 thumb_img_path: /images/88C19AB0-9404-41CC-B0FB-DA1549CEEAE5.jpeg
 thumb_img_alt: Planted hedges cut into a checker board patterned.
@@ -18,7 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-	  For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled.
+	    For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -30,13 +32,13 @@ seo:
       value: Measuring the current level of maturity
     - name: 'twitter:description'
       value: >-
-	  For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled.
+	    For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
 layout: post
-subtitle: CMMI and Beyond
-excerpt: For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled.
+excerpt: >-
+    For any process that can be measured, it is essential to establish what is the desired future state. By agreeing upon, and establishing a goal the measurement of the status quo against that goal is enabled.
 ---
 ## First establish what good looks like
 
